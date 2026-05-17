@@ -1,0 +1,6 @@
+M: 512
+lambda_m: 5.5e-7
+z_m: 10.0
+plano_m: 0.02
+ua: 40
+obj_size_m: 1000
